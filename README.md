@@ -1,21 +1,31 @@
 <h1 align="center">Hi there, I'm Parish Jain !👋</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
-<img  align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Image Description">
+
+<br>
+<img  align="right" width="450"  alt="coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Image Description">
 
 ## 🚀 About Me
-🔧👨‍💻 I am a motivated professional who made a successful transition from mechanical engineering to the dynamic world of IT. Driven by a personal passion for programming languages and web development, I embarked on a transformative journey that led me to become a full-stack web developer.
+🎓 I'm a software developer with a Master's degree in Computer Science. My journey into the world of programming began during my undergraduate studies, where I developed a keen interest in the power and creativity of software development. 
 
-⚙️ With a strong foundation in mechanical engineering, I honed my analytical and problem-solving skills, learning to approach complex challenges with a systematic mindset. The precision and attention to detail required in engineering provided a solid framework for my journey into the realm of programming.
+💻 Throughout my academic journey, I delved into various programming languages and technologies, gaining hands-on experience in building software solutions.
 
-💻 My fascination with programming languages and their limitless possibilities sparked my desire to dive deeper into the IT field. Recognizing the increasing importance of technology in today's world, I proactively pursued opportunities to enhance my skills and expertise in web development.
+💡 I am fascinated by the problem-solving aspect of software development and take pride in my ability to analyze complex challenges.
 
 ## ⚡️ Skills
-- **Programming Languages:**: Java
+- **Programming Languages:**: Java, Python, C
 - **Frameworks**: Spring Boot
 - **Databases**: MySQL
 - **Version Control**: Git
 - **Other Tools**: Maven, IntelliJ IDEA
 
+## 💼 Experience
+- Geekster (2022 - Present)
+  - Position: Trainee Software Developer
+  
+
+##  🎓 Education
+- Chandigarh University (2021-2023)
+  - Degree: MCA
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialparishjain&label=Profile%20views&color=0e75b6&style=flat" alt="officialparishjain" /> </p>
 
