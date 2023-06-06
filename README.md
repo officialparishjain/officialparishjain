@@ -1,3 +1,4 @@
+![logo](https://github.com/officialparishjain/officialparishjain/blob/main/Black%20Technology%20LinkedIn%20Banner%20(3).png)
 <h1 align="center">Hi there, I'm Parish Jain !👋</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
