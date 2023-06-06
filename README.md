@@ -7,7 +7,7 @@
 ## 🚀 About Me
 🎓 I'm a software developer with a Master's degree in Computer Science. My journey into the world of programming began during my undergraduate studies, where I developed a keen interest in the power and creativity of software development. 
 
-💻 Throughout my academic journey, I delved into various programming languages and technologies, gaining hands-on experience in building software solutions.
+💻 Throughout my academic journey, I delved into various programming languages and technologies.
 
 💡 I am fascinated by the problem-solving aspect of software development and take pride in my ability to analyze complex challenges.
 
